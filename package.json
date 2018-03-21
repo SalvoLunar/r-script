@@ -1,5 +1,5 @@
 {
-  "name": "r-script",
+  "name": "r-script-lunar",
   "version": "0.0.3",
   "description": "A simple little module for passing data from NodeJS to R (and back again).",
   "keywords": [
@@ -7,14 +7,14 @@
     "rstats",
     "statistics"
   ],
-  "homepage": "http://github.com/joshkatz/r-script",
-  "bugs": "http://github.com/joshkatz/r-script/issues",
+  "homepage": "https://github.com/SalvoLunar/r-script",
+  "bugs": "https://github.com/SalvoLunar/r-script/issues/",
   "license": "MIT",
   "author": {
-    "name": "Josh Katz"
+    "name": "Salvo Lunar"
   },
   "main": "index.js",
-  "repository": "joshkatz/r-script",
+  "repository": "salvolunar/r-script",
   "dependencies": {
     "underscore": "^1.8.3"
   },
